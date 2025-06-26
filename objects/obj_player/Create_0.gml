@@ -1,5 +1,5 @@
 
 
-gravity = 0.15
+gravity = 0.14
 
 image_speed = 0

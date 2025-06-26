@@ -1,0 +1,4 @@
+if(global.perdeu){
+
+	hspeed = 0
+}

@@ -1,5 +1,13 @@
 
-vspeed = -4
+if(global.perdeu) exit
 
-image_speed = 2
+
+if(image_index < 1){
+	vspeed = -5
+	
+	
+	image_index = 1
+	image_speed = 1.5
+}
+
 
