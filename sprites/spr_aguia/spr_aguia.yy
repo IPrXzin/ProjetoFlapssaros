@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_aguia",
   "bboxMode":2,
-  "bbox_bottom":60,
+  "bbox_bottom":61,
   "bbox_left":17,
   "bbox_right":71,
   "bbox_top":42,

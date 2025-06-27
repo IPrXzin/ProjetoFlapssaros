@@ -1,8 +1,12 @@
 
 
 if(global.perdeu){
-
-	hspeed = -2
-	
 	image_angle += 2
 }
+
+
+if(y > 360 or y < 0){
+	
+	perdeuJogo()
+}
+
