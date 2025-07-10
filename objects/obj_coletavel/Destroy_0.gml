@@ -1,0 +1,1 @@
+instance_create_layer(x, y,"coletaveis", obj_col_explosao)

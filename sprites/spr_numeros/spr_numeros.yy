@@ -35,7 +35,7 @@
   "origin":0,
   "parent":{
     "name":"Mic",
-    "path":"folders/Sprites/Backgrounds/Mic.yy",
+    "path":"folders/Sprites/Mic.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

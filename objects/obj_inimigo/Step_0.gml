@@ -5,3 +5,5 @@ if(global.perdeu){
 }else{
 	hspeed = -3 - global.level
 }
+
+destruir()
