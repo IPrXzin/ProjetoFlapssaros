@@ -47,7 +47,9 @@
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_lobby","path":"rooms/rm_lobby/rm_lobby.yy",},},
     {"id":{"name":"globais","path":"scripts/globais/globais.yy",},},
+    {"id":{"name":"sq_lobby","path":"sequences/sq_lobby/sq_lobby.yy",},},
     {"id":{"name":"spr_agua","path":"sprites/spr_agua/spr_agua.yy",},},
     {"id":{"name":"spr_aguia","path":"sprites/spr_aguia/spr_aguia.yy",},},
     {"id":{"name":"spr_arara","path":"sprites/spr_arara/spr_arara.yy",},},
@@ -66,6 +68,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_lobby","path":"rooms/rm_lobby/rm_lobby.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":"game",

@@ -1,5 +1,5 @@
 if(global.perdeu == false){
-	global.pontos += .5
+	global.pontos += .1
 	
 	if(global.level < 9){
 		
@@ -7,6 +7,11 @@ if(global.perdeu == false){
 		
 		if(global.pontos >= _pontosNecessarios){
 			global.level++
+			
+			layer_hspeed("bg_arvore", -global.level)
+			layer_hspeed("bg_reflexo2", -global.level)
+			layer_hspeed("bg_reflexo_arvores", -global.level * 0.5)
+			
 			
 		}
 	}
